@@ -70,6 +70,17 @@ we provide the implement of different classifier, and word-level domain mixing.
        --target-lang de \
        --user-dir $user_dir
    ```
+
+****
+If you find our paper useful, please kindly cite our paper. Thanks!
+```bibtex
+@article{lai2021improving,
+  title={Improving both domain robustness and domain adaptability in machine translation},
+  author={Lai, Wen and Libovick{\`y}, Jind{\v{r}}ich and Fraser, Alexander},
+  journal={arXiv preprint arXiv:2112.08288},
+  year={2021}
+}
+```
    
 ### Contact
 If you have any questions about our paper, please feel convenient to let me know through email: [lavine@cis.lmu.de](mailto:lavine@cis.lmu.de) 
