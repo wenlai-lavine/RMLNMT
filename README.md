@@ -16,6 +16,8 @@ we provide the implement of different classifier, and word-level domain mixing.
 
 **Pipeline**
 
+<font color=red>To reproduce the results of our experiments, please clean your OPUS corpus first, especially de-duplicate the corpus (see more details in Appendix of the paper).</font>
+
 1. Train a domain classifier based on BERT/ CNN etc in ```domain_classification/Bert_classfier.py``` or ```domain_classification/main.py```
 
 2. Score the sentence to represent the domain similarity with general domains:
