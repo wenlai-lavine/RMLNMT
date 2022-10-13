@@ -1,8 +1,7 @@
 # **RMLNMT**
 
 code implements for paper **[Improving both domain robustness and domain adaptability in machine translation(COLING 2022)](https://arxiv.org/abs/2112.08288)**, 
-the code is based on public code: [fairseq](https://github.com/facebookresearch/fairseq), [Meta-Curriculum](https://github.com/NLP2CT/Meta-Curriculum) and [Meta-MT](https://www.dropbox.com/s/jguxb75utg1dmxl/meta-mt.zip?dl=0),
-we provide the implement of different classifier, and word-level domain mixing.
+the code is based on public code: [fairseq](https://github.com/facebookresearch/fairseq), we provide the implement of different classifier, and word-level domain mixing.
 
 ------
 
@@ -76,11 +75,18 @@ we provide the implement of different classifier, and word-level domain mixing.
 ****
 If you find our paper useful, please kindly cite our paper. Thanks!
 ```bibtex
-@article{lai2021improving,
-  title={Improving both domain robustness and domain adaptability in machine translation},
-  author={Lai, Wen and Libovick{\`y}, Jind{\v{r}}ich and Fraser, Alexander},
-  journal={arXiv preprint arXiv:2112.08288},
-  year={2021}
+@inproceedings{lai-etal-2022-improving-domain,
+    title = "Improving Both Domain Robustness and Domain Adaptability in Machine Translation",
+    author = "Lai, Wen  and
+      Libovick{\'y}, Jind{\v{r}}ich  and
+      Fraser, Alexander",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.461",
+    pages = "5191--5204",
 }
 ```
    
