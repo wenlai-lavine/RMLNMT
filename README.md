@@ -1,6 +1,6 @@
 # **RMLNMT**
 
-code implements for paper **[Improving both domain robustness and domain adaptability in machine translation(COLING 2022)](https://arxiv.org/abs/2112.08288)**, 
+code implements for paper **[Improving Both Domain Robustness and Domain Adaptability in Machine Translation(COLING 2022)](https://aclanthology.org/2022.coling-1.461/)**, 
 the code is based on public code: [fairseq](https://github.com/facebookresearch/fairseq), we provide the implement of different classifier, and word-level domain mixing.
 
 ------
